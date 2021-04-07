@@ -12,3 +12,14 @@ merge the changes back to the others.
 2. Modify this readme file by writing the git commands to find out
    branches (both local and remote) of the current repo!
 
+
+list
+
+remotes/origin/HEAD -> origin/master
+remotes/origin/complete
+remotes/origin/master
+
+commands to show different branches
+
+git branch -a (for local)
+git branch -r (for remote)
