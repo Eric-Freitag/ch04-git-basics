@@ -1,5 +1,7 @@
 # Exercise 2
 
+![muskrats are cute!](75633-004-9E1D1B3A.jpg)
+
 Learn the basics of git workflow, including adding new files.
 
 1. **Fork** the repo onto your own github account  
